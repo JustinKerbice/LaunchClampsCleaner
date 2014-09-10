@@ -1,0 +1,5 @@
+name: Launch Clamps Cleaner
+version: 1.0
+plugin: yes
+type: plugin
+category: tool
